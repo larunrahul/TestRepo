@@ -8,7 +8,7 @@
        "url": "http://example.com"
    },
    "authentication": {
-       "type": "none"
+       "type": "jwt"
    },
    "apiVersion": 1,
    "lifecycle": {
